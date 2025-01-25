@@ -69,6 +69,7 @@ The goal of this project is to perform **Exploratory Data Analysis (EDA)** on th
    - Train multiple machine learning models such as:
      - Logistic Regression
      - Support Vector Machines (SVM)
+     - KNN
      - Random Forest
    - Evaluate model performance based on accuracy, precision, recall, and F1-score.
 
