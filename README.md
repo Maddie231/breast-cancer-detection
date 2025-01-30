@@ -73,8 +73,6 @@ The goal of this project is to perform **Exploratory Data Analysis (EDA)** on th
      - Random Forest
    - Evaluate model performance based on accuracy, precision, recall, and F1-score.
 
-4. **Model Deployment** (Optional for future iterations):
-   - Deploy the model in a web application for interactive use.
 
 ## Tools and Technologies
 
